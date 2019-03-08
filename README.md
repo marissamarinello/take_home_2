@@ -31,7 +31,7 @@ Data is collected over time in a series of waves. As such, this data will likely
 
 Data for Jordan is analyzed in the most recent wave, Wave 6 which is from 2010-2014 and comes has data for Jordan for 2014. Also used is data from Wave 5 which is 2005-2009 and has Jordan data for 2007.
 
-*Important Notes:* The links will take you to the WVS page. On the left hand side, you will be prompted to select a country. 
+*Important Notes:* The links will take you to the WVS page. On the right hand side, you will be prompted to select a country. 
 * Type in "Jordan" in the search box, and when you see it appear click it rather than pressing enter. 
 * Once you are on the Jordan profile page, scroll to the bottom and the different data sets are provided. 
 * The data set used in the code notebook is the first one listed that has "text_text" in the title. 
