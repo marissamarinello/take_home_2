@@ -1,6 +1,6 @@
 # take_home_2
 
-#Information About This Folder:
+# Information About This Folder:
 
 * This folder contains a Colab notebok with code for reading files in pandas, extracting specific columns and observations, listing headings, creating new dataframes, and merging data.
 
@@ -8,10 +8,10 @@
 
 * Links are provided to access the CSV and Excel files used for each source. 
 
-##About data sources:
+## About data sources:
 The following data is from three different sources: the Human Development Index from the United Nations, the World Values Survey, and the World Bank. This data is accessible online via the links and directions provided.
-
-##HDI
+ 
+## HDI
 The Human Development Index data is compiled ever year and ranks countries from around the world. Countries area assessed on the main demensions of health, knowledge, and standard of living. There are multiple subcategories within each category to better asses each country. Countries that have a HDI score closer to 1 means they are more developed. Countries are categorized by score in the broad categories of "Very High Human Development," "High Human Development," "Medium Human Development," and "Low Human Development." 
 
 The data used in the colab notebook is from the complete HDI 2018 data, and Jordan for 2018
@@ -24,7 +24,7 @@ The data used in the colab notebook is from the complete HDI 2018 data, and Jord
 * All of the data provided is in CSV form. 
 
 
-##World Values Survey
+## World Values Survey
 The World Values Survey asks individuals questions that assess the state of a given country from a more socio-cultural perspective that represents the actual sentiments of the population towards a given topic. The questions vary some from year to year, but a record of the questions asked is provided. 
 
 Data is collected over time in a series of waves. As such, this data will likely be used in research to analyze changes over time. 
@@ -44,7 +44,7 @@ Data for Jordan is analyzed in the most recent wave, Wave 6 which is from 2010-2
 
 *Data from the Human Development Index and the World Values Survey is particularly useful because it is gathered over time, and generally utilizes the same variables - so they are excellent for tracking changes in a population over time.*
 
-##World Bank
+## World Bank
 
 The World Bank provides data on their poverty headcount ration (% of population) for 2011. Each country is listed along with its region and its income level. This is of use to see how levels of income correlate with the above HDI and WVS data. 
 
