@@ -1,4 +1,14 @@
-# take_home_2
+#THA3
+
+#Data used for THA3:
+* syrianpop_jordan.xlsx
+* syrianpop_lebanon.xlsx
+* syrianpop_turkey.xlsx
+* ftsdata.xlsx
+* major_polittical_violence.xlsx
+
+
+# THA2
 
 # Information About This Folder:
 
