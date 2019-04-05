@@ -1,6 +1,6 @@
-#THA3
+# THA3
 
-#Data used for THA3:
+# Data used for THA3:
 * syrianpop_jordan.xlsx
 * syrianpop_lebanon.xlsx
 * syrianpop_turkey.xlsx
