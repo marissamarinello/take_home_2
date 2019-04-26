@@ -1,6 +1,6 @@
 # THA4
 
-#Data used for THA4:
+# Data used for THA4:
 * ACLED2017-2019Syria
 * INSCR_politicalviolence_syria
 * UNHCR_regestered_refugees
