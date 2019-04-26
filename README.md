@@ -7,6 +7,7 @@
 * straus_global_fragility_syria
 * syrian_displacement
 
+* A workflow diagram is included for the ACLED data manipulation. 
 
 # THA3
 
