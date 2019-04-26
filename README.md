@@ -1,3 +1,13 @@
+# THA4
+
+#Data used for THA4:
+* ACLED2017-2019Syria
+* INSCR_politicalviolence_syria
+* UNHCR_regestered_refugees
+* straus_global_fragility_syria
+* syrian_displacement
+
+
 # THA3
 
 # Data used for THA3:
